@@ -1,4 +1,4 @@
-![logo](https://github.com/SumitKrSuman/SumitKrSuman/blob/main/Sumit%20Kumar%20Suman.png)
+![logo](https://github.com/SumitKrSuman/SumitKrSuman/blob/main/Purple%20White%20Marketing%20Manager%20Modern%20Profile%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Suman</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
