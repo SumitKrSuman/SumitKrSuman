@@ -18,11 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Project:</h3>
-<p align="left">
-<a href="[https://instagram.com/am_sumit98" target="blank](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-ebfefe52-c0b8-4bf2-abd5-a5853b325fda%3A%3Af0417b18-b514-4df7-b3dc-be04c76a3fea&integrationID=a2ae465e-9ff1-4625-86b9-c605396a5b86&region=au-syd&serviceInstanceID=ebfefe52-c0b8-4bf2-abd5-a5853b325fda)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Health Care Chatbot's" height="30" width="40" /></a>
-</p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkrsuman&show_icons=true&locale=en&layout=compact" alt="sumitkrsuman" /></p>
 
