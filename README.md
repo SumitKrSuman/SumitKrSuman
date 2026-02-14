@@ -1,4 +1,4 @@
-![logo](https://github.com/SumitKrSuman/SumitKrSuman/blob/main/Purple%20White%20Marketing%20Manager%20Modern%20Profile%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/SumitKrSuman/SumitKrSuman/blob/main/banner.png)
 
 <h1 align="center">Sumit Kumar Suman</h1>
 <h3 align="center">Software Engineer | Java | Spring Boot | Backend Developer</h3>
